@@ -1,0 +1,6 @@
+PROGRAM TEST;
+VAR A: INTEGER 76uuuu;
+BEGIN
+  IF A = 5
+  ENDIF;
+END.

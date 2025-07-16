@@ -1,0 +1,11 @@
+PROGRAM TEST;
+VAR A: INTEGER;
+BEGIN
+  IF A = 5 THEN
+    IF A = 10 THEN
+    ENDIF;
+  ELSE-
+    IF A = 0 THEN
+    ENDIF;
+  (* Пропущено ENDIF; *)
+END.

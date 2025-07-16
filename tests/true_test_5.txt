@@ -1,0 +1,13 @@
+PROGRAM TEST;
+VAR A: INTEGER; B: INTEGER;
+BEGIN
+  IF A = 5 THEN
+    IF B = 10 THEN
+    ENDIF;
+  ELSE
+    IF A = B THEN
+      IF 0 = 1 THEN
+      ENDIF;
+    ENDIF;
+  ENDIF;
+END.
